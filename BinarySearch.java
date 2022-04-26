@@ -1,13 +1,9 @@
 package project.binarysearch;
 
-/**
- *
- * @author white
- */
 public class BinarySearch {
 
     public static void main(String[] args) {
-
+        
         int x, left, right;
         int[]arr = new int[20];
     }
